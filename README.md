@@ -5,7 +5,7 @@
 ### Group members
 | Student name | Student ID |
 | --- | --- |
-| #NAME# | #ID# |
+| Stefan Lehmann Andersen | 146229 |
 | #NAME# | #ID# |
 | #NAME# | #ID# |
 
@@ -31,7 +31,7 @@ This repository contains the first mandatory assignment (MA1) for AIML25. It con
 **Please see due dates and other relevant information in the assignment description on Canvas.**
 
 ## Getting started
-Please see the relevant sections in the `Development setup guide` document on Canvas for instructions. To reiterate, you need to:
+Please see the relevant sections in the `Development setup guide` document on Canvas for instructions. To iterate, you need to:
 
 1. Fork this repository to your own GitHub account.
 2. Clone the forked repository to your local machine.
